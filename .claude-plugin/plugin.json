@@ -1,0 +1,10 @@
+{
+  "name": "stratus-platform",
+  "description": "Platform team utilities — secret management and infrastructure tools",
+  "version": "1.0.0",
+  "author": {
+    "name": "GTP-Services Platform Team"
+  },
+  "repository": "https://github.com/GTP-Services/stratus-platform",
+  "keywords": ["secrets", "infrastructure", "platform"]
+}
